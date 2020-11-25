@@ -174,40 +174,40 @@ function ContactForm() {
 			<Grid container spacing={3}>
 				<Grid item xs={6}>
 					<FormControlLabel
-						value='end'
+						value='1'
 						control={<Checkbox color='primary' />}
-						label='End'
-						labelPlacement='end'
+						label='Web or Mobile Apps Development'
+						labelPlacement='Web or Mobile Apps Development'
 					/>
 					<FormControlLabel
-						value='end'
+						value='2'
 						control={<Checkbox color='primary' />}
-						label='End'
-						labelPlacement='end'
+						label='Hire Dedicated Developers'
+						labelPlacement='Hire Dedicated Developers'
 					/>
 					<FormControlLabel
-						value='end'
+						value='3'
 						control={<Checkbox color='primary' />}
-						label='End'
-						labelPlacement='end'
+						label='AI/ML Development Services'
+						labelPlacement='AI/ML Development Services'
 					/>
 					<FormControlLabel
-						value='end'
+						value='4'
 						control={<Checkbox color='primary' />}
-						label='End'
-						labelPlacement='end'
+						label='Custom Software Development'
+						labelPlacement='Custom Software Development'
 					/>
 					<FormControlLabel
-						value='end'
+						value='5'
 						control={<Checkbox color='primary' />}
-						label='End'
-						labelPlacement='end'
+						label='Software Testing and QA'
+						labelPlacement='Software Testing and QA'
 					/>
 					<FormControlLabel
-						value='end'
+						value='6'
 						control={<Checkbox color='primary' />}
-						label='End'
-						labelPlacement='end'
+						label='API Development Integration'
+						labelPlacement='API Development Integration'
 					/>
 				</Grid>
 			</Grid>
